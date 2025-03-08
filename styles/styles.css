@@ -135,6 +135,14 @@ section img {
   .header {
     margin-top: 0;
   }
+  .header__title {
+    font-size: 3.6rem;
+    margin-bottom: 1rem;
+  }
+  .header__description {
+    font-size: 1.8rem;
+    margin-bottom: 3rem;
+  }
   br {
     display: block;
   }	
