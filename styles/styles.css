@@ -63,6 +63,10 @@ img {
   margin-bottom: 5rem;
 }
 
+br {
+  display: none;
+}
+
 /* main */
 
 section {
@@ -131,6 +135,9 @@ section img {
   .header {
     margin-top: 0;
   }
+  br {
+    display: block;
+  }	
   section {
     width: 100%;
     margin-bottom: 0;
